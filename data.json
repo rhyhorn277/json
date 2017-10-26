@@ -1,8 +1,8 @@
 {
-  "title": "https://avatars0.githubusercontent.com/u/12854371?s=40&v=4",
+  "title": "Image List",
   "description": "Your app fetched this from a remote endpoint!",
   "movies": [
-    { "title": "Star Wars", "releaseYear": "2017"},
+    { "title": "https://avatars0.githubusercontent.com/u/12854371?s=40&v=4", "releaseYear": "2017"},
     { "title": "Back to the Future", "releaseYear": "2018"},
     { "title": "The Matrix", "releaseYear": "2019"},
     { "title": "Inception", "releaseYear": "2020"},
